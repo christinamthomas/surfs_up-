@@ -1,5 +1,4 @@
 # surfs_up-
-##Purpose
 The purpose of this analysis was to determine the difference in temperature for months of December and June for the surf shop. Overall, the location has fairly consistent temperatures.
 
 The average temperature:
